@@ -1,5 +1,6 @@
 ﻿[
   {
+    "SKU": "nb-00001",
     "Brand": "Nella Bella",
     "ProductName": "KATE",
     "GraphicName": "kate.jpg",
@@ -10,6 +11,7 @@
     "QtyOnBackOrder": "123"
   },
   {
+    "SKU": "nb-00002",
     "Brand": "Nella Bella",
     "ProductName": "HARLOW",
     "GraphicName": "harlow.jpg",
@@ -20,6 +22,7 @@
     "QtyOnBackOrder": "32"
   },
   {
+    "SKU": "nb-00003",
     "Brand": "Nella Bella",
     "ProductName": "DORY",
     "GraphicName": "dory.jpg",
@@ -30,6 +33,7 @@
     "QtyOnBackOrder": "13"
   },
   {
+    "SKU": "nb-00004",
     "Brand": "Nella Bella",
     "ProductName": "HOLLY",
     "GraphicName": "holly.jpg",
@@ -40,6 +44,7 @@
     "QtyOnBackOrder": "32"
   },
   {
+    "SKU": "nb-00005",
     "Brand": "Nella Bella",
     "ProductName": "ROBYN",
     "GraphicName": "robyn.jpg",
@@ -50,6 +55,7 @@
     "QtyOnBackOrder": "5"
   },
   {
+    "SKU": "mn-00001",
     "Brand": "Matt & Nat",
     "ProductName": "WAPI",
     "GraphicName": "wapi.jpg",
@@ -60,6 +66,7 @@
     "QtyOnBackOrder": "5"
   },
   {
+    "SKU": "mn-00002",
     "Brand": "Matt & Nat",
     "ProductName": "Baxter",
     "GraphicName": "baxtar.jpg",
@@ -70,6 +77,7 @@
     "QtyOnBackOrder": "12"
   },
   {
+    "SKU": "mn-00003",
     "Brand": "MattNat",
     "ProductName": "Brave",
     "GraphicName": "brave.jpg",
@@ -80,6 +88,7 @@
     "QtyOnBackOrder": "7"
   },
   {
+    "SKU": "mn-00004",
     "Brand": "Matt & Nat",
     "ProductName": "Eeha",
     "GraphicName": "eeha.jpg",
@@ -90,6 +99,7 @@
     "QtyOnBackOrder": "3"
   },
   {
+    "SKU": "mn-00005",
     "Brand": "Matt & Nat",
     "ProductName": "Hiley",
     "GraphicName": "hiley.jpg",
@@ -100,6 +110,7 @@
     "QtyOnBackOrder": "0"
   },
   {
+    "SKU": "fp-00001",
     "Brand": "Free People",
     "ProductName": "Trilogy Slouchy Tote",
     "GraphicName": "trilogy.jpg",
@@ -110,6 +121,7 @@
     "QtyOnBackOrder": "4"
   },
   {
+    "SKU": "fp-00002",
     "Brand": "Free People",
     "ProductName": "Peyton Vegan Crossbody",
     "GraphicName": "payton.jpg",
@@ -120,6 +132,7 @@
     "QtyOnBackOrder": "1"
   },
   {
+    "SKU": "fp-00003",
     "Brand": "Free People",
     "ProductName": "Lora Washed Tote",
     "GraphicName": "lora.jpg",
@@ -130,6 +143,7 @@
     "QtyOnBackOrder": "0"
   },
   {
+    "SKU": "fp-00004",
     "Brand": "Free People",
     "ProductName": "everett.jpg",
     "GraphicName": "Everett Vegan Tote",
@@ -140,6 +154,7 @@
     "QtyOnBackOrder": "15"
   },
   {
+    "SKU": "fp-00005",
     "Brand": "Free People",
     "ProductName": "Slouchy Vegan Tote",
     "GraphicName": "slouchy.jpg",
