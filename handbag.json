@@ -78,7 +78,7 @@
   },
   {
     "SKU": "mn-00003",
-    "Brand": "MattNat",
+    "Brand": "Matt & Nat",
     "ProductName": "Brave",
     "GraphicName": "brave.jpg",
     "Description": "Backpack with top zipper closure. Adjustable webbing straps. Side pockets and front zipper pocket. Fits a 13\" laptop.",
@@ -145,8 +145,8 @@
   {
     "SKU": "fp-00004",
     "Brand": "Free People",
-    "ProductName": "everett.jpg",
-    "GraphicName": "Everett Vegan Tote",
+    "ProductName": "Everett Vegan Tote",
+    "GraphicName": "everett.jpg",
     "Description": "Vegan leather tote bag featuring multiple compartments to easily store all your essentials.",
     "CostPrice": "21",
     "MSRP": "65",
