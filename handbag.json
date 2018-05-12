@@ -1,0 +1,152 @@
+﻿[
+  {
+    "Brand": "Nella Bella",
+    "ProductName": "KATE",
+    "GraphicName": "",
+    "Description": "The KATE NU PEBBLE is a medium size expandable tote/handbag. Equipped with 2 front and back zippered compartments & one large center compartment. Outside detailing includes a dynamically shaped pocket that is perfect for your cell phone, keys and other essentials.",
+    "CostPrice": 50.00,
+    "MSRP": 110.00,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 123
+  },
+  {
+    "Brand": "Nella Bella",
+    "ProductName": "HARLOW",
+    "GraphicName": "",
+    "Description": "This envelope style clutch/purse is the perfect accessory for a day/night out on the town for the sophisticated woman. Small enough to carry on your wrist, large enough to carry what you need for the day/night, versatile enough to use in almost any setting. A great travel companion.",
+    "CostPrice": 30.00,
+    "MSRP": 69.00,
+    "QtyOnHand": 63,
+    "QtyOnBackOrder": 32
+  },
+  {
+    "Brand": "Nella Bella",
+    "ProductName": "DORY",
+    "GraphicName": "",
+    "Description": "Simplicity is beautiful! The DORY is one compartment medium size shoulder handbag. Incredibly light and a great companion for the everyday. Roomy and without the strap it will function as an oversized clutch with beautiful decorative zipper details.",
+    "CostPrice": 30.00,
+    "MSRP": 69.00,
+    "QtyOnHand": 52,
+    "QtyOnBackOrder": 13
+  },
+  {
+    "Brand": "Nella Bella",
+    "ProductName": "HOLLY",
+    "GraphicName": "",
+    "Description": "The HOLLY is our smart zipped carry all tote. Not too big and not too small it’s the perfect size to carry what you need for the everyday. It has a huge front pocket that is a sweet solution for the items that you constantly reaching for like your cell phone, keys, ID or wallet. This handbag is designed to be hassle free easy to use daily tote. We really think you will LOVE IT! It also comes with a removable and adjustable strap for hands free carry.",
+    "CostPrice": 25.00,
+    "MSRP": 65.00,
+    "QtyOnHand": 45,
+    "QtyOnBackOrder": 32
+  },
+  {
+    "Brand": "Nella Bella",
+    "ProductName": "ROBYN",
+    "GraphicName": "",
+    "Description": "Small but large in style and function, the ROBYN handbag/purse is a great new compact size with a lot to offer. Outside zipper pockets and spacious interior.",
+    "CostPrice": 42.00,
+    "MSRP": 99.00,
+    "QtyOnHand": 87,
+    "QtyOnBackOrder": 5
+  },
+  {
+    "Brand": "Matt & Nat",
+    "ProductName": "WAPI",
+    "GraphicName": "",
+    "Description": "Crossbody bag with adjustable strap. Features a magnetic snap closure and small pocket in back.",
+    "CostPrice": 30.00,
+    "MSRP": 150.00,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 5
+  },
+  {
+    "Brand": "Matt & Nat",
+    "ProductName": "Baxter",
+    "GraphicName": "",
+    "Description": "Tote that can be worn crossbody with removable and adjustable strap. Secured magnetic snap closure and back slit pocket.",
+    "CostPrice": 50.00,
+    "MSRP": 145.00,
+    "QtyOnHand": 23,
+    "QtyOnBackOrder": 12
+  },
+  {
+    "Brand": "Matt & Nat",
+    "ProductName": "Brave",
+    "GraphicName": "",
+    "Description": "Backpack with top zipper closure. Adjustable webbing straps. Side pockets and front zipper pocket. Fits a 13\" laptop.",
+    "CostPrice": 53.23,
+    "MSRP": 145.00,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 7
+  },
+  {
+    "Brand": "Matt & Nat",
+    "ProductName": "Eeha",
+    "GraphicName": "",
+    "Description": "Crossbody bag with adjustable strap. The logo is on both sides of the bag, allowing it to be worn reversibly. Two compartments; one with top zipper closure, the other with front flap and magnetic snap closure.",
+    "CostPrice": 45.95,
+    "MSRP": 135.00,
+    "QtyOnHand": 16,
+    "QtyOnBackOrder": 3
+  },
+  {
+    "Brand": "Matt & Nat",
+    "ProductName": "Hiley",
+    "GraphicName": "",
+    "Description": "Small flap over crossbody with main zipper closure and adjustable crossbody strap.",
+    "CostPrice": 21.57,
+    "MSRP": 98.00,
+    "QtyOnHand": 8,
+    "QtyOnBackOrder": 0
+  },
+  {
+    "Brand": "Free People",
+    "ProductName": "Trilogy Slouchy Tote",
+    "GraphicName": "",
+    "Description": "Slouchy vegan leather tote, in the perfect size to fit all your essentials.",
+    "CostPrice": 15.23,
+    "MSRP": 50.00,
+    "QtyOnHand": 0,
+    "QtyOnBackOrder": 4
+  },
+  {
+    "Brand": "Free People",
+    "ProductName": "Peyton Vegan Crossbody",
+    "GraphicName": "",
+    "Description": "Compact vegan leather crossbody with outer pockets and an inner, wallet-like compartment area.",
+    "CostPrice": 14.35,
+    "MSRP": 38.00,
+    "QtyOnHand": 6,
+    "QtyOnBackOrder": 1
+  },
+  {
+    "Brand": "Free People",
+    "ProductName": "Lora Washed Tote",
+    "GraphicName": "",
+    "Description": "With a textured design, this vegan leather tote features an everyday design.",
+    "CostPrice": 32.52,
+    "MSRP": 88.00,
+    "QtyOnHand": 15,
+    "QtyOnBackOrder": 0
+  },
+  {
+    "Brand": "Free People",
+    "ProductName": "",
+    "GraphicName": "Everett Vegan Tote",
+    "Description": "Vegan leather tote bag featuring multiple compartments to easily store all your essentials.",
+    "CostPrice": 21.47,
+    "MSRP": 65.00,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 15
+  },
+  {
+    "Brand": "Free People",
+    "ProductName": "Slouchy Vegan Tote",
+    "GraphicName": "",
+    "Description": "This reversible, carry-everything vegan leather tote features an elegant shape and large removable zipper pouch, perfect for storing a laptop, tablet, or other odds and ends.",
+    "CostPrice": 23.00,
+    "MSRP": 68.00,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0
+  }
+]
